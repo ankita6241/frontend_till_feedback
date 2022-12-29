@@ -1,0 +1,17 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+h2{
+    font-family: 'Oswald', cursive;
+}
+.bg-no-overlay {
+    background: url('./Images/header1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:"center center";
+    color: black;
+    width: 100vw;
+    height: 80vh;
+    padding-top: 10rem;
+}

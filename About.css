@@ -1,0 +1,10 @@
+.bgNOoverlay {
+    background: url('./Images/aboutus.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:"center center";
+    color: black;
+    width: 100vw;
+    height: 30vh;
+    padding-top: 7rem;
+}
